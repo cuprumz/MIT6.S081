@@ -7,6 +7,9 @@ This repo contains resources from web
 
 14week
 
+### Lab
+ - [] (Lab util: Unix utilities)[https://pdos.csail.mit.edu/6.S081/2020/labs/util.html]
+
 ### Reference
 
 https://pdos.csail.mit.edu/6.S081/
