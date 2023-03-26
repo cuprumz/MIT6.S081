@@ -29,7 +29,7 @@ This repo contains resources from web
 
 ### Reference
 
-https://pdos.csail.mit.edu/6.S081/
-https://riscv.org/technical/specifications/
-https://rv8.io/isa
-https://rv8.io/asm
+ - https://pdos.csail.mit.edu/6.S081/
+ - https://riscv.org/technical/specifications/
+ - https://rv8.io/isa
+ - https://rv8.io/asm
