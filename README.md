@@ -23,8 +23,13 @@ This repo contains resources from web
  - [x] type(read) lec/l-os.txt
  - [x] type(read) lec/l-vm.txt
  - [ ] spectre attacks
+ - [x] riscv-calling.pdf
+ - [x] type(read) lec/l-riscv.txt
  - [ ] finish
 
 ### Reference
 
 https://pdos.csail.mit.edu/6.S081/
+https://riscv.org/technical/specifications/
+https://rv8.io/isa
+https://rv8.io/asm
