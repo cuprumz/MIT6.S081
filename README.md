@@ -10,6 +10,7 @@ This repo contains resources from web
 ### Lab
  - [ ] [Lab util: Unix utilities](https://pdos.csail.mit.edu/6.S081/2020/labs/util.html) in w1Wed. 6d
  - [ ] [Lab syscall: System calls](https://pdos.csail.mit.edu/6.S081/2020/labs/syscall.html) in w2Wed. 6d
+ - [ ] [Lab pgtbl: Page tables](https://pdos.csail.mit.edu/6.S081/2020/labs/pgtbl.html) in w3Wed.
 
 ### OKR
  - [x] getting started
@@ -20,6 +21,8 @@ This repo contains resources from web
  - [ ] [lec/l-c-slides.pdf](lec/l-c-slides.pdf)
  - [x] [lec/gdb_slides.pdf](lec/gdb_slides.pdf)
  - [x] type(read) lec/l-os.txt
+ - [x] type(read) lec/l-vm.txt
+ - [ ] spectre attacks
  - [ ] finish
 
 ### Reference
