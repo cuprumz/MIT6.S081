@@ -33,6 +33,7 @@ This repo contains resources from web
  - [ ] spectre attacks
  - [x] riscv-calling.pdf
  - [x] type(read) lec/l-riscv.txt
+ - [x] type(read) lec/l-internal.txt
  - [ ] finish
 
 ### Reference
