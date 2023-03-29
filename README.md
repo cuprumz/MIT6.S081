@@ -34,6 +34,7 @@ This repo contains resources from web
  - [x] riscv-calling.pdf
  - [x] type(read) lec/l-riscv.txt
  - [x] type(read) lec/l-internal.txt
+ - [x] type(read) lec/l-pgfaults.txt
  - [ ] finish
 
 ### Reference
@@ -42,3 +43,4 @@ This repo contains resources from web
  - https://riscv.org/technical/specifications/
  - https://rv8.io/isa
  - https://rv8.io/asm
+ - https://lwn.net/Articles/849876/
