@@ -25,7 +25,7 @@ This repo contains resources from web
  - [ ] book-riscv-rev1.pdf
  - [ ] [video lec](https://www.youtube.com/watch?v=XNiaUaS6vpI&list=PLTsf9UeqkReZHXWY9yJvTwLJWYYPcKEqK)
  - [x] type(read) lec/lec-overview.txt
- - [ ] The C Programming Language K&R
+ - [x] The C Programming Language K&R
  - [x] [lec/l-c-slides.pdf](lec/l-c-slides.pdf)
  - [x] [lec/gdb_slides.pdf](lec/gdb_slides.pdf)
  - [x] type(read) lec/l-os.txt
