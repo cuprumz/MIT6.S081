@@ -35,6 +35,7 @@ This repo contains resources from web
  - [x] type(read) lec/l-riscv.txt
  - [x] type(read) lec/l-internal.txt
  - [x] type(read) lec/l-pgfaults.txt
+ - [x] type(read) lec/l-interrupt.txt
  - [ ] finish
 
 ### Reference
@@ -44,3 +45,4 @@ This repo contains resources from web
  - https://rv8.io/isa
  - https://rv8.io/asm
  - https://lwn.net/Articles/849876/
+ - http://byterunner.com/16550.html
