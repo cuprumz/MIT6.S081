@@ -36,6 +36,7 @@ This repo contains resources from web
  - [x] type(read) lec/l-internal.txt
  - [x] type(read) lec/l-pgfaults.txt
  - [x] type(read) lec/l-interrupt.txt
+ - [x] type(read) lec/l-lockv2.txt
  - [ ] finish
 
 ### Reference
