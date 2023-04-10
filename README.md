@@ -37,6 +37,7 @@ This repo contains resources from web
  - [x] type(read) lec/l-pgfaults.txt
  - [x] type(read) lec/l-interrupt.txt
  - [x] type(read) lec/l-lockv2.txt
+ - [x] type(read) lec/l-threads.txt
  - [ ] finish
 
 ### Reference
