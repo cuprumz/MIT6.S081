@@ -39,6 +39,7 @@ This repo contains resources from web
  - [x] type(read) lec/l-lockv2.txt
  - [x] type(read) lec/l-threads.txt
  - [x] type(read) lec/l-coordination.txt
+ - [x] type(read) lec/l-fs.txt
  - [ ] finish
 
 ### Reference
