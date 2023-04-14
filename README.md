@@ -40,6 +40,7 @@ This repo contains resources from web
  - [x] type(read) lec/l-threads.txt
  - [x] type(read) lec/l-coordination.txt
  - [x] type(read) lec/l-fs.txt
+ - [x] type(read) lec/l-crash.txt
  - [ ] finish
 
 ### Reference
