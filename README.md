@@ -41,6 +41,7 @@ This repo contains resources from web
  - [x] type(read) lec/l-coordination.txt
  - [x] type(read) lec/l-fs.txt
  - [x] type(read) lec/l-crash.txt
+ - [x] type(read) lec/l-uservm.txt 2020
  - [ ] finish
 
 ### Reference
