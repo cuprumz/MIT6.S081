@@ -43,6 +43,7 @@ This repo contains resources from web
  - [x] type(read) lec/l-crash.txt
  - [x] type(read) lec/l-uservm.txt 2020
  - [x] type(read) lec/l-organization.txt 2020
+ - [x] type(read) lec/l-vmm.txt 2020
  - [ ] finish
 
 ### Reference
