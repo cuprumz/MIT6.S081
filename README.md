@@ -47,6 +47,7 @@ This repo contains resources from web
  - [x] type(read) lec/l-biscuit.txt 2020
  - [x] type(read) lec/l-net.txt 2020
  - [x] type(read) lec/l-meltdown.txt 2020
+ - [x] type(read) lec/l-rcu.txt 2020
  - [ ] finish
 
 ### Reference
